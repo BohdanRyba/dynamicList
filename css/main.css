@@ -56,3 +56,9 @@ table {
   overflow-y: auto;
   max-height: 700px;
 }
+
+p.list-group-item-text {
+  max-height: 38px;
+  margin-bottom: 10px;
+  overflow-y: hidden;
+}
