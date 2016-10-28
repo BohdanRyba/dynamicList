@@ -1,7 +1,9 @@
 # dynamicList
 Project for php-students(practice session)
-<pre>------------------------------------------</pre>
 <pre>
+
+<a href="https://demjanua.github.io/dynamicList/">Look it here</a>
+
 <strong>Task list:</strong>
 
 1. Прочитати завдання;
