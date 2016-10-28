@@ -1,0 +1,58 @@
+/*NORMALIZE*/
+html, p { 
+  margin: 0;
+  padding: 0;
+}
+body{
+    font-family: 'Open Sans', Arial, sans-serif;
+    margin:0;
+    padding:0;
+    color: rgb(51, 51, 51);
+}
+menu {
+  padding: 0;
+  margin: 0;
+}
+a {
+    text-decoration:none;
+    color:cornflowerblue;
+}
+div, section {
+  box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+}
+ul, menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+form {
+    margin:0;
+}
+button {
+  padding: 0;
+  border: 0;
+  outline: none;
+}
+table {
+    border-collapse: collapse;
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  width: 100%;
+  clear: both;
+}
+.justify-fix:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+/******************************************/
+
+.list-group {
+  overflow-y: auto;
+  max-height: 700px;
+}
